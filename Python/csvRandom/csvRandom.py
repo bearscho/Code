@@ -2,7 +2,7 @@ import sys
 import random
 
 if len(sys.argv) !=3:
-    print("Argumens 2개 확인   [원본파일] [변환파일]")
+    print("Argumens 2개 확인  [원본파일] [변환파일]")
     sys.exit()
 
 orgFile = sys.argv[1]
