@@ -1,13 +1,11 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-2022/01/05 15:59:47.948,433,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,431,0,332
-2022/01/05 15:59:53.463,154,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,154,0,0
-2022/01/05 15:59:58.645,130,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,130,0,0
-2022/01/05 16:00:03.844,490,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,490,0,0
-2022/01/05 16:00:09.403,149,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,149,0,0
-2022/01/05 16:00:14.579,126,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,126,0,0
-2022/01/05 16:00:19.714,204,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,204,0,0
-2022/01/05 16:00:24.967,274,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,273,0,0
-2022/01/05 16:00:30.319,260,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,260,0,0
-2022/01/05 16:00:35.615,274,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,274,0,0
-2022/01/05 16:00:40.936,177,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,177,0,0
-2022/01/05 16:00:46.159,279,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,279,0,0
+1641443790657,2837,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,2815,0,2318
+1641443798500,1108,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,1108,0,0
+1641443804617,1038,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,1037,0,0
+1641443810663,217,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,217,0,0
+1641443815905,711,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,711,0,0
+1641443821674,2409,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,2409,0,0
+1641443829129,696,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,696,0,0
+1641443834876,362,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,362,0,0
+1641443840269,1045,Home Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,1045,0,0
+1641443846400,322,Main Page,200,,Scenario 1 1-1,text,true,,345,314,1,1,https://49.247.147.78:8783/,321,0,0
